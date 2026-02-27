@@ -1,0 +1,8 @@
+Resolusi Arie Gustian di tahun 2026
+-Basic Skills HTML, CSS, Javascript
+-Membuat Portofolio yang menarik
+-Pengetahuan tentang GIT & Github (Version Control System)
+-Skill SCSS
+-Skill Typescript
+-Skill CSS Frameworks
+-Pengetahuan tentang Web Component
