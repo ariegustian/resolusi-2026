@@ -1,5 +1,5 @@
 Resolusi Arie Gustian di tahun 2026
--Basic Skills HTML, CSS, Javascript
+-
 -Membuat Portofolio yang menarik
 -Pengetahuan tentang GIT & Github (Version Control System)
 -Skill SCSS
@@ -10,3 +10,5 @@ Resolusi Arie Gustian di tahun 2026
 -Pengetahuan tentang Build Tool & Task Runner
 -Skills Front-end Framework atau Library
 -Pengetahuan tentang State Management
+-Skills API
+-Deployment Website
